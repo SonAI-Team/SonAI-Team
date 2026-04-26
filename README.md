@@ -73,6 +73,15 @@ and
 in volatile memory; no audio data is ever recorded, stored, or transmitted. All our tools are fully
 compliant with Android 14+ foreground service and data attribution requirements. ✅
 
+## 📊 SonAI Team Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonAI-Team&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="SonAI-Team GitHub Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonAI-Team&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" height="192" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonAI-Team&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## 🤝 Collaborations & Contact
 
 We are always open to new ideas and collaborations in the fields of Machine Learning, Audio DSP, and
